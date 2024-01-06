@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop👂
-  - try..catch👂
+  - Event loop: 👂 heard
+  - try..catch: 👂 heard
   - Non-blocking
   - Async I/O
   - Thread pool
@@ -17,28 +17,28 @@
   - Dead locks
   - Live locks
   - Concurrent programming
-  - Parallel programming👂
-  - Actor Model👂
-  - Thread👂
-  - Process👂
+  - Parallel programming: 👂 heard
+  - Actor Model: 👂 heard
+  - Thread: 👂 heard
+  - Process: 👂 heard
 - Async contracts
-  - Callbacks👂
+  - Callbacks: 👂 heard
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await👂
+  - Async/await: 👂 heard
   - Future
   - Deferred
-  - Sync generator👂
-  - Async Generator👂
-  - Async Iterator👂
-  - Event👂
-  - Coroutine👂
-  - Goroutine👂
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 👂 heard
+  - Coroutine: 👂 heard
+  - Goroutine: 👂 heard
   - Signal
   - Stream
-  - Chain of responsibility👂
-  - Middleware👂
+  - Chain of responsibility: 👂 heard
+  - Middleware: 👂 heard
   - Locks
 - Async adapters and utils
   - callbackify
@@ -47,17 +47,17 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter👂
+  - EventEmitter: 👂 heard
   - Observable/Observer
-  - Readable👂
-  - Writable👂
-  - Transform👂
+  - Readable: 👂 heard
+  - Writable: 👂 heard
+  - Transform: 👂 heard
   - Async Pool
   - Async Queue
   - Async Collector
-  - Semaphore👂
-  - Mutex👂
-  - Spin Lock👂
+  - Semaphore: 👂 heard
+  - Mutex: 👂 heard
+  - Spin Lock: 👂 heard
 - JavaScript & Node.js specific
   - Timers
   - setImmediate
@@ -70,26 +70,26 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell👂
+  - Callback hell: 👂 heard
   - Promise hell
-  - ref() and unref()👂
+  - ref() and unref(): 👂 heard
   - Error handling in async code
   - Better stack traces with return await
-  - JSON: streaming serialization👂
+  - JSON: streaming serialization: 👂 heard
   - promisify
   - callbackify
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
-  - async.js library👂
+  - async.js library: 👂 heard
   - RxJS library
   - Async composition
   - Promise.all
   - Promise.allSettled
   - Promise.race
   - Promise.any
-  - Web Locks API👂
-  - IPC👂
-  - Channel API👂
-  - Revealing Constructor👂
-  - Web Locks API👂
+  - Web Locks API: 👂 heard
+  - IPC: 👂 heard
+  - Channel API: 👂 heard
+  - Revealing Constructor: 👂 heard
+  - Web Locks API: 👂 heard

@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value🎓
-  - identifier🎓
-  - variable🖐️
-  - constant🖐️
-  - scalar🖐️
-  - literal👂
-  - expression🖐️
-  - heap👂
-  - function🖐️
-  - procedure🖐️
-  - method🖐️
-  - class🖐️
-  - prototype🖐️
-  - event👂
-  - type🎓
-  - primitive types👂
-  - reference types👂
-  - flag👂
-  - lexical scope👂
-  - code block🖐️
-  - conditions🖐️
-  - loops🖐️
-  - assignment👂
-  - regular expression🖐️
-  - interface👂
+  - value: 🎓 known
+  - identifier: 🎓 known
+  - variable: 🖐️ used
+  - constant: 🖐️ used
+  - scalar: 🖐️ used
+  - literal: 👂 heard
+  - expression: 🖐️ used
+  - heap: 👂 heard
+  - function: 🖐️ used
+  - procedure: 🖐️ used
+  - method: 🖐️ used
+  - class: 🖐️ used
+  - prototype: 🖐️ used
+  - event: 👂 heard
+  - type: 🎓 known
+  - primitive types: 👂 heard
+  - reference types: 👂 heard
+  - flag: 👂 heard
+  - lexical scope: 👂 heard
+  - code block: 🖐️ used
+  - conditions: 🖐️ used
+  - loops: 🖐️ used
+  - assignment: 👂 heard
+  - regular expression: 🖐️ used
+  - interface: 👂 heard
   - contract
-  - module🎓
-  - call stack🖐️
+  - module: 🎓 known
+  - call stack: 🖐️ used
 - Functions
-  - signature👂
-  - argument🖐️
-  - parameter🖐️
+  - signature: 👂 heard
+  - argument: 🖐️ used
+  - parameter: 🖐️ used
   - pure function
-  - lambda expression🖐️
-  - side effects👂
+  - lambda expression: 🖐️ used
+  - side effects: 👂 heard
   - closure
-  - partial application👂
+  - partial application: 👂 heard
   - curry
   - higher order
-  - recursion🖐️
-  - callback🖐️
-  - listener🖐️
+  - recursion: 🖐️ used
+  - callback: 🖐️ used
+  - listener: 🖐️ used
   - compose
-  - pipe👂
+  - pipe: 👂 heard
   - memoize
   - wrapper
   - functor
   - monad
   - monoid
   - generator
-  - coroutine👂
+  - coroutine: 👂 heard
 - Data structures
-  - array🖐️
-  - structure🖐️
-  - record👂
-  - enum🖐️
-  - instance🎓
-  - object🖐️
-  - class🖐️
-  - collection🎓
+  - array: 🖐️ used
+  - structure: 🖐️ used
+  - record: 👂 heard
+  - enum: 🖐️ used
+  - instance: 🎓 known
+  - object: 🖐️ used
+  - class: 🖐️ used
+  - collection: 🎓 known
   - set
-  - hash table🎓
-  - linked list🖐️
+  - hash table: 🎓 known
+  - linked list: 🖐️ used
   - doubly list
   - unrolled list
   - circular list
-  - queue👂
-  - stack👂
-  - deque👂
-  - tree👂
-  - graph🎓
+  - queue: 👂 heard
+  - stack: 👂 heard
+  - deque: 👂 heard
+  - tree: 👂 heard
+  - graph: 🎓 known
   - iterator
   - mutable state
   - immutable state
   - serialization
-  - string parsing🎓
+  - string parsing: 🎓 known
 - Process & style
-  - compiler🎓
+  - compiler: 🎓 known
   - transpiler
   - linter
   - polyfill
-  - debugger🎓
-  - garbage collection👂
+  - debugger: 🎓 known
+  - garbage collection: 👂 heard
   - refactoring
   - code review
   - antipatterns
-  - paradigm🎓
-  - algorithm🎓
-  - magic numbers👂
+  - paradigm: 🎓 known
+  - algorithm: 🎓 known
+  - magic numbers: 👂 heard
   - hardcode
   - complexity
-  - decomposition👂
-  - spaghetti👂
-  - silver bullet👂
+  - decomposition: 👂 heard
+  - spaghetti: 👂 heard
+  - silver bullet: 👂 heard
   - not invented here
-  - dead code👂
-  - unreachable code🎓
-  - duplicate code🎓
-  - exception🎓
-  - return early👂
+  - dead code: 👂 heard
+  - unreachable code: 🎓 known
+  - duplicate code: 🎓 known
+  - exception: 🎓 known
+  - return early: 👂 heard
   - unittest
-  - git🖐️
-  - github🖐️
+  - git: 🖐️ used
+  - github: 🖐️ used
