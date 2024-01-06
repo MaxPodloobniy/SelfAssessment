@@ -1,15 +1,15 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js🎓
+  - Strong and weak sides of node.js: 🎓 known
   - Stateful and stateless servers
   - Nonblocking I/O and slocking code
-  - Event loop: phases🎓
-  - Event loop: microtasks and macrotasks🎓
-  - Garbage collection🎓
+  - Event loop: phases: 🎓 known
+  - Event loop: microtasks and macrotasks: 🎓 known
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time)👂
+  - Interactive applications (close to real-time): 👂 heard
 - Modularity, layers and dependencies
   - CommonJS modules
   - ECMAScript modules
@@ -18,7 +18,7 @@
   - Modules as singletons
   - Contexts and scripts node:vm
   - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock👂
+  - Dependencies: package.json and package lock: 👂 heard
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection
@@ -26,17 +26,17 @@
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments🎓
-  - Node.js CLI🎓
+  - Command line arguments: 🎓 known
+  - Node.js CLI: 🎓 known
   - Process-based permissions
   - Graceful shutdown
   - Clustering
   - Watch filesystem changes with --watch
 - Internal API
-  - Streams API👂
-  - Web Streams API👂
-  - Crypto API👂
-  - Password hashing with node:crypto.scrypt👂
+  - Streams API: 👂 heard
+  - Web Streams API: 👂 heard
+  - Crypto API: 👂 heard
+  - Password hashing with node:crypto.scrypt: 👂 heard
   - Web Crypto API
   - File system API: sync and async
   - Copy folder recursively
@@ -84,25 +84,25 @@
   - GoF for Node.js
   - Leaking abstractions
 - Network
-  - IP sticky sessions👂
+  - IP sticky sessions: 👂 heard
   - Endpoint throttling
-  - HTTP(S)🎓
-  - TCP/SSL🎓
-  - UDP🎓
-  - TLS🎓
+  - HTTP(S): 🎓 known
+  - TCP/SSL: 🎓 known
+  - UDP: 🎓 known
+  - TLS: 🎓 known
   - Websocket
-  - SSE🎓
+  - SSE: 🎓 known
   - HTTP/3 (QUIC)
-  - Long polling👂
+  - Long polling: 👂 heard
   - REST
   - RPC
   - Routing
-  - DoS🎓
-  - DDoS🎓
+  - DoS: 🎓 known
+  - DDoS: 🎓 known
   - XSS
   - Path traversal
   - CSRF
-  - DNS🎓
+  - DNS: 🎓 known
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -130,26 +130,26 @@
   - Availability
   - Flexibility
 - Data access
-  - Data access layer👂
-  - Repository👂
+  - Data access layer: 👂 heard
+  - Repository: 👂 heard
   - Active record
-  - Query builder👂
+  - Query builder: 👂 heard
   - Object-Relational Mapping
 - Error handling and debugging
   - Error
   - error.cause
-  - error.code👂
-  - error.message👂
-  - error.stack👂
+  - error.code: 👂 heard
+  - error.message: 👂 heard
+  - error.stack: 👂 heard
   - How to avoid mixins
-  - Error.captureStackTrace👂
+  - Error.captureStackTrace: 👂 heard
   - Uncaught exceptions
-  - Heap dump👂
+  - Heap dump: 👂 heard
   - Debugging tools
   - Flame graph
-  - Memory leaks👂
+  - Memory leaks: 👂 heard
   - Resource leaks
-  - Data race👂
+  - Data race: 👂 heard
 - Integrations and bindings
   - Native addons
   - C and C++ addons
@@ -165,6 +165,6 @@
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript
-  - Shared memory👂
-  - SharedArrayBuffer👂
+  - Shared memory: 👂 heard
+  - SharedArrayBuffer: 👂 heard
   - V8 binary serialization

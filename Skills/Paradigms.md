@@ -1,64 +1,64 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming🖐️
+  - Procedural programming: 🖐️ used
   - Imperative programming
   - Structured programming
   - Non-structured programming
   - Functional programming
   - Prototype-based programming
-  - Object-oriented programming🖐️
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Asyncronous programming: 🎓 known
+  - Parallel programming: 🖐️ used
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
-  - Actor model
+  - Multi-paradigm programming: 👂 heard
+  - Metaprogramming: 👂 heard
+  - Actor model: 👂 heard
 - OOP basics
-  - constructor🖐️
-  - new🖐️
-  - Static method🖐️
-  - Method🖐️
+  - constructor: 🖐️ used
+  - new: 🖐️
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
   - Async method
-  - Getters, Setters🖐️
-  - Public fields🖐️
-  - Private fields🖐️
-  - Field declarations🖐️
-  - Inheritance🖐️
-  - Parent class🖐️
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
   - Polymorphism
-  - Abstract class👂
-  - Interface🎓
-  - Encapsulation👂
-  - Hidden class👂
-  - Object form👂
-  - instance👂
+  - Abstract class: 👂 heard
+  - Interface: 🎓 known
+  - Encapsulation: 👂 heard
+  - Hidden class: 👂 heard
+  - Object form: 👂 heard
+  - instance: 👂 heard
   - Introspection
   - Reflection
 - Patterns
   - Singleton
-  - Factory Method👂
-  - Abstract Factory👂
-  - Adapter👂
-  - Observer🎓
+  - Factory Method: 👂 heard
+  - Abstract Factory: 👂 heard
+  - Adapter: 👂 heard
+  - Observer: 🎓 known
   - Strategy
-  - Facade👂
+  - Facade: 👂 heard
   - Proxy
-  - Chain of Responsibility🎓
+  - Chain of Responsibility: 🎓 known
   - Command
   - Iterator
   - State
   - Bridge
   - Builder
-  - Prototype👂
-  - Composite👂
-  - Decorator👂
+  - Prototype: 👂 heard
+  - Composite: 👂 heard
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
