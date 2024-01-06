@@ -1,106 +1,106 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
-  - identifier
-  - variable
-  - constant
-  - scalar
-  - literal
-  - expression
-  - heap
-  - function
-  - procedure
-  - method
-  - class
-  - prototype
-  - event
-  - type
-  - primitive types
-  - reference types
-  - flag
-  - lexical scope
-  - code block
-  - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
+  - value🎓
+  - identifier🎓
+  - variable🖐️
+  - constant🖐️
+  - scalar🖐️
+  - literal👂
+  - expression🖐️
+  - heap👂
+  - function🖐️
+  - procedure🖐️
+  - method🖐️
+  - class🖐️
+  - prototype🖐️
+  - event👂
+  - type🎓
+  - primitive types👂
+  - reference types👂
+  - flag👂
+  - lexical scope👂
+  - code block🖐️
+  - conditions🖐️
+  - loops🖐️
+  - assignment👂
+  - regular expression🖐️
+  - interface👂
   - contract
-  - module
-  - call stack
+  - module🎓
+  - call stack🖐️
 - Functions
-  - signature
-  - argument
-  - parameter
+  - signature👂
+  - argument🖐️
+  - parameter🖐️
   - pure function
-  - lambda expression
-  - side effects
+  - lambda expression🖐️
+  - side effects👂
   - closure
-  - partial application
+  - partial application👂
   - curry
   - higher order
-  - recursion
-  - callback
-  - listener
+  - recursion🖐️
+  - callback🖐️
+  - listener🖐️
   - compose
-  - pipe
+  - pipe👂
   - memoize
   - wrapper
   - functor
   - monad
   - monoid
   - generator
-  - coroutine
+  - coroutine👂
 - Data structures
-  - array
-  - structure
-  - record
-  - enum
-  - instance
-  - object
-  - class
-  - collection
+  - array🖐️
+  - structure🖐️
+  - record👂
+  - enum🖐️
+  - instance🎓
+  - object🖐️
+  - class🖐️
+  - collection🎓
   - set
-  - hash table
-  - linked list
+  - hash table🎓
+  - linked list🖐️
   - doubly list
   - unrolled list
   - circular list
-  - queue
-  - stack
-  - deque
-  - tree
-  - graph
+  - queue👂
+  - stack👂
+  - deque👂
+  - tree👂
+  - graph🎓
   - iterator
   - mutable state
   - immutable state
   - serialization
-  - string parsing
+  - string parsing🎓
 - Process & style
-  - compiler
+  - compiler🎓
   - transpiler
   - linter
   - polyfill
-  - debugger
-  - garbage collection
+  - debugger🎓
+  - garbage collection👂
   - refactoring
   - code review
   - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
+  - paradigm🎓
+  - algorithm🎓
+  - magic numbers👂
   - hardcode
   - complexity
-  - decomposition
-  - spaghetti
-  - silver bullet
+  - decomposition👂
+  - spaghetti👂
+  - silver bullet👂
   - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
+  - dead code👂
+  - unreachable code🎓
+  - duplicate code🎓
+  - exception🎓
+  - return early👂
   - unittest
-  - git
-  - github
+  - git🖐️
+  - github🖐️
